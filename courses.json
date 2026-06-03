@@ -1,0 +1,26 @@
+[
+  {
+    "course_name": "오픈소스소프트웨어실습",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "test",
+    "year": "2026",
+    "semester": "1",
+    "grade": "B"
+  },
+  {
+    "course_name": "asdfasdf",
+    "year": "2026",
+    "semester": "2",
+    "grade": "A"
+  },
+  {
+    "course_name": "abc",
+    "year": "2026",
+    "semester": "2",
+    "grade": "B+"
+  }
+]
